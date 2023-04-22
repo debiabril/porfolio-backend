@@ -19,6 +19,7 @@ com\porfolio\dab\Security\jwt\JwtProvider.class
 com\porfolio\dab\Security\Repository\iRolRepository.class
 com\porfolio\dab\Security\Enums\RolNombre.class
 com\porfolio\dab\Security\Service\UserDetailsImpl.class
+com\porfolio\dab\Dto\dtoPersona.class
 com\porfolio\dab\Security\Controller\Mensaje.class
 com\porfolio\dab\Controller\CEducacion.class
 com\porfolio\dab\Controller\CSkills.class
