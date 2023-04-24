@@ -14,8 +14,10 @@ C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\p
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\Controller\AuthController.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\jwt\JwtProvider.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\jwt\JwtTokenFilter.java
+C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Controller\CProyecto.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Dto\dtoEducacion.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Service\ImpPersonaService.java
+C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Service\SProyecto.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Entity\Educacion.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\jwt\JwtEntryPoint.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Controller\CExperiencia.java
@@ -33,7 +35,10 @@ C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\p
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Dto\dtoPersona.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Entity\Persona.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\Dto\NuevoUsuario.java
+C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Entity\Proyecto.java
+C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Dto\dtoProyecto.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Entity\Skills.java
+C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Repository\RProyecto.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\Service\RolService.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\DabApplication.java
 C:\Users\Debi\OneDrive\Escritorio\ArgProgApp\ARGPROG BackEnd\src\main\java\com\porfolio\dab\Security\Service\UsuarioService.java
